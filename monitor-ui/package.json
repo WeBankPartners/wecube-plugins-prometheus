@@ -20,7 +20,7 @@
   },
   "dependencies": {
     "@types/js-cookie": "^2.2.6",
-    "@vue/cli-plugin-typescript": "^4.3.1",
+    "@vue/cli-plugin-typescript": "^5.0.8",
     "axios": "^0.21.1",
     "bootstrap": "^4.3.1",
     "colresizable": "^1.6.0",
@@ -35,7 +35,7 @@
     "js-cookie": "^2.2.1",
     "lint-staged": "^8.2.1",
     "lodash": "^4.17.21",
-    "serialize-javascript": "^3.1.0",
+    "serialize-javascript": "^6.0.2",
     "style-resources-loader": "^1.2.1",
     "typescript": "^3.9.2",
     "vee-validate": "^2.0.6",
@@ -52,7 +52,7 @@
   "devDependencies": {
     "@vue/cli-plugin-babel": "^3.11.0",
     "@vue/cli-plugin-eslint": "^3.11.0",
-    "@vue/cli-service": "^4.2.3",
+    "@vue/cli-service": "^5.0.8",
     "babel-eslint": "^10.0.1",
     "babel-polyfill": "^6.26.0",
     "eslint": "^6.8.0",
